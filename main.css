@@ -77,3 +77,21 @@ background: #f15025;
 .side-nav-links {
  display: none;
 }
+
+
+
+/* Top nav */
+.nav-top {
+ height: 107px;
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-around;
+ border-bottom: 5px solid #f15025;
+}
+
+.nav-btn {
+ border: 3px solid #272727;
+ cursor: pointer;
+ display: none;
+}
+/* end of top nav */
